@@ -20,3 +20,15 @@ C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor
 C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor-kayit-sistemi.csproj.SuggestedBindingRedirects.cache
 C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor-kayit-sistemi.exe
 C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor-kayit-sistemi.pdb
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\bin\Debug\spor-kayit-sistemi.exe.config
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\bin\Debug\spor-kayit-sistemi.exe
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\bin\Debug\spor-kayit-sistemi.pdb
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor_kayit_sistemi.Form1.resources
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor_kayit_sistemi.Formiletisimbilgiler.resources
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor_kayit_sistemi.FormKayitSon.resources
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor_kayit_sistemi.FormKisiselbilgiler.resources
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor_kayit_sistemi.FormÖdeme.resources
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor_kayit_sistemi.Properties.Resources.resources
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor-kayit-sistemi.csproj.GenerateResource.cache
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor-kayit-sistemi.csproj.CoreCompileInputs.cache
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor_kayit_sistemi.ListCustomer.resources

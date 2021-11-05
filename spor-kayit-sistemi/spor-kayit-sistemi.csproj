@@ -76,6 +76,13 @@
     <Compile Include="FormÖdeme.Designer.cs">
       <DependentUpon>FormÖdeme.cs</DependentUpon>
     </Compile>
+    <Compile Include="ListCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListCustomer.Designer.cs">
+      <DependentUpon>ListCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Customer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -92,6 +99,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormÖdeme.resx">
       <DependentUpon>FormÖdeme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListCustomer.resx">
+      <DependentUpon>ListCustomer.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

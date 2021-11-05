@@ -38,6 +38,7 @@ namespace spor_kayit_sistemi
             public static Color color2 = Color.FromArgb(249, 116, 176);
             public static Color color3 = Color.FromArgb(253, 138, 114);
             public static Color color4 = Color.FromArgb(95, 77, 221);
+            public static Color color5 = Color.FromArgb(185, 22, 70);
         }
         //methods
         private void ActivateButton(object senderBtn, Color color)
@@ -104,6 +105,12 @@ namespace spor_kayit_sistemi
         {
             ActivateButton(sender, RGBColors.color4);
             OpenChildForm(new FormKayitSon());
+        }
+
+        private void customer_list_click(object sender, EventArgs e)
+        {
+            ActivateButton(sender, RGBColors.color5);
+            OpenChildForm(new ListCustomer());
         }
 
         private void btnHome_Click(object sender, EventArgs e)
