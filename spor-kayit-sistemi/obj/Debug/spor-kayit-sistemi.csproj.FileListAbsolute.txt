@@ -16,3 +16,7 @@ Z:\spor-kayit-sistemi\obj\Debug\spor-kayit-sistemi.csproj.AssemblyReference.cach
 Z:\spor-kayit-sistemi\obj\Debug\spor-kayit-sistemi.csproj.SuggestedBindingRedirects.cache
 Z:\spor-kayit-sistemi\obj\Debug\spor-kayit-sistemi.exe
 Z:\spor-kayit-sistemi\obj\Debug\spor-kayit-sistemi.pdb
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor-kayit-sistemi.csproj.AssemblyReference.cache
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor-kayit-sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor-kayit-sistemi.exe
+C:\Users\DOĞUKAN\Desktop\gorsel-final-project\spor-kayit-sistemi\obj\Debug\spor-kayit-sistemi.pdb
