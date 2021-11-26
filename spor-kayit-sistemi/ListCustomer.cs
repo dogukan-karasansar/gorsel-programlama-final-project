@@ -21,7 +21,7 @@ namespace spor_kayit_sistemi
         private void ListCustomer_Load(object sender, EventArgs e)
         {
             List<Customer> customerList = new List<Customer>();
-            customerList.Add(new Customer("doğukan", "karasansar", "13342342123", "sdadadad", "14.07.2002", "05340741203", "05.11.2021", "05.12.2021", 100, "kredi kartı", "34431234512", 4 ));
+            customerList.Add(new Customer("doğukan", "dsadasdaa", "13342342123", "sdadadad", "14.07.2002", "05340741203", "05.11.2021", "05.12.2021", 100, "kredi kartı", "34431234512", 4 ));
             customerList.Add(new Customer("damla", "sekmen", "13342342123", "sdadadad", "14.07.2002", "05340741203", "05.11.2021", "05.12.2021", 100, "kredi kartı", "34431234512", 4));
             customerList.Add(new Customer("esra", "aybar", "13342342123", "sdadadad", "14.07.2002", "05340741203", "05.11.2021", "05.12.2021", 100, "kredi kartı", "34431234512", 4));
 
